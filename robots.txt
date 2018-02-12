@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /style/
+
+
+Host: xn--80aafkgojcemlkbzjbvfg7r.xn--p1ai
+
+Sitemap: http://xn--80aafkgojcemlkbzjbvfg7r.xn--p1ai/sitemaps.xml

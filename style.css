@@ -1,0 +1,134 @@
+﻿P
+{
+text-indent:4px;
+color:MidnightBlue;
+font-family: arial, verdana, sans-serif; 
+font-size:19px;
+}
+
+.tavi
+{
+background-color:LightBlue;
+}
+
+.tablo {
+	width:97%;
+}
+
+.fono-niko {
+  display: block;
+  margin: 0 auto;
+  width="97%"
+}
+	
+	
+.zet{}
+
+.zeta {
+	font-size:20px;
+	}
+
+blockquote {
+ background: none repeat scroll 0 0 #fafafa;
+ border-bottom: 3px dashed #bababa;
+ border-top: 3px dashed #bababa;
+ color: #B22222;
+font-family: Georgia,serif;
+ font-size: 20px;
+ font-style: italic;
+ line-height: 1.45;
+ padding: 10px 15px;
+ position: relative;
+ text-align: center;
+ width="90%"
+}
+
+
+}
+
+ li
+
+ {
+ text-indent:4px;
+color:MidnightBlue;
+font-family: arial, verdana, sans-serif; 
+font-size:17px;
+ }
+
+h1  
+ {
+color:CornflowerBlue; 
+font-size:30px; 
+font-family: arial, verdana, sans-serif;
+}
+
+
+h2 
+ {
+font-size:25px;
+ color:CornflowerBlue;
+font-family: arial, verdana, sans-serif;
+ }
+
+
+h3  
+ {
+color:red;
+font-size:22px;
+font-family: arial, verdana, sans-serif;
+}
+
+ 
+ h4  
+ {
+color:red; 
+ font-size:22px;
+font-family: arial, verdana, sans-serif;
+}
+
+a 
+{
+color:Brown;
+ font-size:18px; 
+font-family: arial, verdana, sans-serif;
+}
+
+
+.kraska
+{
+color:Brown;
+ font-size: 20px;
+}
+
+.header
+{
+background-color:#F0FFFF;
+}
+
+.header1
+{
+background-color:#E6E6FA; width="28%";
+}
+
+.header2
+{
+background-color:#ffffff;
+}	
+
+.header3
+{
+background-color: Silver;
+}
+
+.tablo li {
+  padding: 6px;
+  font-size: 20px;
+}
+
+.fofochvachi {
+width:82%; maeguin:0 avto;
+}
+
+.fofochvachi-meniu {
+width:95%; maeguin:0 avto;
+}
